@@ -1,4 +1,4 @@
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://Sarmitha-S.io)
+
 <h1 align="center">Hi 👋, I'm Sarmitha</h1>
 <h3 align="center">"Transforming data into actionable intelligence"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
